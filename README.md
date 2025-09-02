@@ -1,0 +1,1 @@
+# Inventory_store-mcp-server
